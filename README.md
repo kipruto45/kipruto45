@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ..Data science.
 - 💞️ I’m looking to collaborate on .Data Analysis..
 - 📫 How to reach me ...-IG _kipruto.rop_
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...He
 - ⚡ Fun fact: ..Love coding.
 
 <!---
