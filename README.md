@@ -8,6 +8,15 @@ Building scalable data pipelines, analytics-ready systems, and data-driven platf
   <img src="https://komarev.com/ghpvc/?username=kipruto45&label=Profile%20views&color=0e75b6&style=flat" alt="kipruto45" />
 </p>
 
+<!-- GitHub Rank & Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kipruto45&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats with Rank" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kipruto45" alt="GitHub Streak" />
+</p>
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kipruto45&margin-w=15&margin-h=15" alt="kipruto45" />
@@ -59,13 +68,5 @@ Building scalable data pipelines, analytics-ready systems, and data-driven platf
 </ul>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kipruto45&show_icons=true&locale=en&layout=compact" alt="kipruto45" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kipruto45&show_icons=true&locale=en" alt="kipruto45" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kipruto45" alt="kipruto45" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kipruto45&layout=compact" alt="Top Languages" />
 </p>
